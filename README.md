@@ -1,4 +1,4 @@
-# Curriculum-Inspired Hierarchical Learning for Image Classification
+# Brain-Inspired Hierarchical Learning for Image Classification
 
 This project investigates whether hierarchical, curriculum-inspired learning improves image classification compared to standard flat CNN training. Inspired by the human visual cortex, a multi-stage pipeline was designed where successive CNN modules learn intermediate visual representations (edges → corners → contours → saliency) before final object recognition.
 
